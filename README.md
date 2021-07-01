@@ -5,7 +5,9 @@ Esta es la entrega del trabajo completo del módulo 1: creación de textos e hip
 Mi CV puede descargarse de este link
 <p>
 [CV actualizado]( https://ariadnafredes.github.io/CV_TYHM_1_2021/)
+  <p>
 
 Otra manera de compartir 
-  
-  <a href=" https://ariadnafredes.github.io/CV_TYHM_1_2021/"> CV actualizadoJulio 2021 </a>
+  <p>
+    
+  <a href="https://ariadnafredes.github.io/CV_TYHM_1_2021/"> CV actualizadoJulio 2021 </a>
